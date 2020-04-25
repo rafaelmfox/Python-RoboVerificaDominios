@@ -18,13 +18,13 @@ Versao 1.0
 <b>Ide usada</b>
 PyCharm Community Edition 2020.1 x64
 
-<b>Biblioteca>
+<b>Biblioteca</b>
 <ol>
  <li>selenium</li>
 </ol>
 
 
 <b>Intalação</b><br>
-Requer instalação da biblioteca
-no powershell vc ira digitar o comando 
-pip install selenium
+Requer instalação da biblioteca<br>
+no powershell vc ira digitar o comando <br>
+<b>pip install selenium<b>
