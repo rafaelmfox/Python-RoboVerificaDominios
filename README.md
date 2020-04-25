@@ -12,6 +12,7 @@ Versao 1.0
 <ol>
  <li>opera Versão:68.0.3618.56 +</li>
  <li>Windows 7, 10</li>
+ <li>Linux</li>
  <li>Python n-3.8.2</li>
 </ol>
 
